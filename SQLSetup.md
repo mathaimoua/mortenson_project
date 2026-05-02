@@ -1,10 +1,7 @@
 # Mortenson Construction – Project Database SQL Setup
 
 ```sql
--- ============================================================
--- TABLE DEFINITIONS
--- ============================================================
-
+-- Create tables
 CREATE TABLE project_categories (
     id   INT PRIMARY KEY,
     name VARCHAR(100) NOT NULL
@@ -18,9 +15,7 @@ CREATE TABLE projects (
     category_id INT REFERENCES project_categories(id)
 );
 
--- ============================================================
--- CATEGORIES
--- ============================================================
+-- Insert project categories
 
 INSERT INTO project_categories (id, name) VALUES
 (1,  'Healthcare'),
@@ -38,9 +33,7 @@ INSERT INTO project_categories (id, name) VALUES
 (13, 'Data Centers'),
 (14, 'Retail');
 
--- ============================================================
--- PROJECTS
--- ============================================================
+-- Project data
 
 INSERT INTO projects (id, name, city, state, category_id) VALUES
 
