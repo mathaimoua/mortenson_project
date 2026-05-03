@@ -1,0 +1,226 @@
+id,name,city,state,category
+1,Crab Island Waterfront Restricted Area,Crab Island,GA,Infrastructure & Transportation
+2,Froedtert & The Medical College of Center Wisconsin for Advanced Care,Wauwatosa,WI,Healthcare
+3,Ellsworth Adhesives West Region Distribution Center,Reno,NV,Industrial & Manufacturing
+4,Delta Passenger Boarding Bridge Expansion,Seatac,WA,Infrastructure & Transportation
+5,Esperanza Health Centers Brighton Park Clinic,Chicago,IL,Healthcare
+6,Pursuit Park,Mesa,AZ,Commercial & Office
+7,Dunwoody College Exterior Improvements,Minneapolis,MN,Higher Education
+8,Budd Inlet Treatment Plant Primary Sedimentation Basins,Olympia,WA,Infrastructure & Transportation
+9,Center Washburn for Children,Minneapolis,MN,Civic & Cultural
+10,Northwestern Mutual Van Buren Office Building,Milwaukee,WI,Commercial & Office
+11,Astera Health/CentraCare - Cancer Coborn Center,Wadena,MN,Healthcare
+12,Pinnacle Fertility Clinic,Chicago,IL,Healthcare
+13,Kaiser Permanente Everett Specialty Center,Everett,WA,Healthcare
+14,Dallas Autonomous Vehicle Electric Charging Hub,Dallas,TX,Infrastructure & Transportation
+15,Scatter Wash Energy Storage,Phoenix,AZ,Energy & Utilities
+16,University of Minnesota Volleyball Performance Center Renovation,Minneapolis,MN,Higher Education
+17,Woodward Drake Renovation,Fort Collins,CO,Industrial & Manufacturing
+18,Chatfield Storage Reallocation,Littleton,CO,Infrastructure & Transportation
+19,3083 Walnut Street,Denver,CO,Commercial & Office
+20,Key Bank Pavilion,Bellevue,WA,Commercial & Office
+21,Tierra Bonita Solar Project,Girvin,TX,Energy & Utilities
+22,Oberlin College Sustainable Infrastructure Program,Oberlin,OH,Higher Education
+23,Boswell Springs Wind Project,Albany County,WY,Energy & Utilities
+24,Neon Collective Kitchen,Minneapolis,MN,Retail
+25,Canyon Country Energy Storage Facility,Santa Clarita,CA,Energy & Utilities
+26,Kohler Vikrell Manufacturing Facility,Casa Grande,AZ,Industrial & Manufacturing
+27,Revolution Energy Storage,Crane,TX,Energy & Utilities
+28,Hyatt Regency Coralville Hotel & Conference Center Renovation,Coralville,IA,Hospitality & Convention
+29,The Basilica of St. Mary Rectory Renovation,Minneapolis,MN,Civic & Cultural
+30,Panhandle Substations and Transmission Line Project,Panhandle,TX,Energy & Utilities
+31,Newberg Wastewater Treatment Plant Expansion,Newberg,OR,Infrastructure & Transportation
+32,Alamo 6 Solar,Mccamey,TX,Energy & Utilities
+33,Mortenson Oregon Office Remodel,Portland,OR,Commercial & Office
+34,USCG Station Manasquan Inlet Multi Mission Building,Manasquan,NJ,Government & Military
+35,Atlantic City USCG Station Boat Maintenance Facility,Atlantic City,NJ,Government & Military
+36,Tualatin Interceptor & Siphon Improvement,Portland,OR,Infrastructure & Transportation
+37,Clear Creek Crossing,Wheat Ridge,CO,Commercial & Office
+38,Arlington Il Solar,Early County,GA,Energy & Utilities
+39,Wilkinson Solar,Pinetown,NC,Energy & Utilities
+40,citizenM Hotel Seattle,Downtown Seattle,WA,Hospitality & Convention
+41,Ridgegate Parkway 2 Phase,Lone Tree,CO,Infrastructure & Transportation
+42,Allina Hastings Medical Office Building,Hastings,MN,Healthcare
+43,Residence Inn by Marriott,Downtown Seattle,WA,Hospitality & Convention
+44,Colorado State University Stadium,Fort Collins,CO,Sports & Recreation
+45,The Blake School Hopkins Campus,Hopkins,MN,K-12 Education
+46,Hyatt Place Hyatt House Tempe Downtown,Tempe,AZ,Hospitality & Convention
+47,King Plains,Enid,OK,Energy & Utilities
+48,Storyline Apartments,Portland,OR,Residential
+49,Jack Links,Minneapolis,MN,Industrial & Manufacturing
+50,Bipole HVDC Converter Stations Ay,Winnipeg,MB,Energy & Utilities
+51,Northern Star Council Leadership Center,Fort Snelling,MN,Civic & Cultural
+52,Industrious Tenant Improvement Scottsdale,Scottsdale,AZ,Commercial & Office
+53,Hampton Inn & Suites Phoenix,Phoenix,AZ,Hospitality & Convention
+54,Harborview Medical Facility Center and Infrastructure Improvements,Seattle,WA,Healthcare
+55,Richland Parish Data Center,Holly Ridge,LA,Data Centers
+56,BPA Ross Complex Redevelopment,Vancouver,WA,null
+57,Continental Coliseum,Oklahoma City,OK,Sports & Recreation
+58,Glen Ellyn Parking Garage,Glen Ellyn,IL,Infrastructure & Transportation
+59,Providence Regional Medical Center Everett Behavioral Health,Everett,WA,Healthcare
+60,University of Minnesota Center for Magnetic Resonance Research,Minneapolis,MN,Higher Education
+61,Froedtert Ambulatory Master Plan,Wauwatosa,WI,Healthcare
+62,Global Credit Union Projects,Phoenix Metropolitan,AZ,Commercial & Office
+63,El Centro de Recursos de The Family Partnership,Minneapolis,MN,Civic & Cultural
+64,The Family Partnership,Minneapolis,MN,Civic & Cultural
+65,Children's Colorado Health Pavilion,Aurora,CO,Healthcare
+66,Great Wolf Lodge,Scottsdale,AZ,Hospitality & Convention
+67,MSOE Dwight & Dian Diercks Computational Science Hall,Milwaukee,WI,Higher Education
+68,Faegre Baker Daniels Denver Office Renovation,Denver,CO,Commercial & Office
+69,Rafter,Minneapolis,MN,Residential
+70,Acuity Insurance Corporate Headquarters & Expansion Parking Structures,Sheboygan,WI,Commercial & Office
+71,Sanford Fargo Medical Center,Fargo,ND,Healthcare
+72,University of Northern lowa Schindler Education Center,Cedar Falls,IA,Higher Education
+73,Arauco Flake Board,Albany,OR,Industrial & Manufacturing
+74,Micron Technology & Research Development Lab,Boise,ID,Industrial & Manufacturing
+75,Northern Wind Energy Redevelopment,Lake Wilson,MN,Energy & Utilities
+76,Centracare Paynesville Hospital Renovation,Paynesville,MN,Healthcare
+77,Everett Community College Learning Resource Center,Everett,WA,Higher Education
+78,Jasper Solar Ridgeland Solar,Ridgeland,SC,Energy & Utilities
+79,RTD Civic Center Station,Denver,CO,Infrastructure & Transportation
+80,Westminster Presbyterian Church Open Doors Open Futures,Minneapolis,MN,Civic & Cultural
+81,Eagle Mountain Data Center,Eagle Mountain,UT,Data Centers
+82,Box Elder,Aurora,CO,Energy & Utilities
+83,citizenM Hotel Menlo Park,Menlo Park,CA,Hospitality & Convention
+84,Denver Broncos Mile High Monument,Denver,CO,Sports & Recreation
+85,US Bank Stadium,Minneapolis,MN,Sports & Recreation
+86,lowa State University Marston Hall Renovation,Ames,IA,Higher Education
+87,Mayo Clinic Square,Minneapolis,MN,Commercial & Office
+88,Prohealth D.N. Greenwald Emergency Department,Mukwonago,WI,Healthcare
+89,USCG Fast Response Cutter Homeport Upgrades Hawaii,Honolulu,HI,Government & Military
+90,Buffalo Marriott Harborcenter,Buffalo,NY,Hospitality & Convention
+91,Camp Parks Photovoltaic System,Dublin,CA,Government & Military
+92,Hampton Inn & Suites Minneapolis,Minneapolis,MN,Hospitality & Convention
+186,AMLI Fifth Lenora,Seattle,WA,Residential
+93,Jefferson Lab & Technology Engineering Development Facility,Newport News,VA,null
+94,Alamo 4 Project,Bracketville,TX,Energy & Utilities
+95,Acuity Insurance Flagpole,Sheboygan,WI,Commercial & Office
+96,Big Ten Experience,Rosemont,IL,Civic & Cultural
+97,Northern Stacks,Fridley,MN,Industrial & Manufacturing
+98,Joseph Saint Hospital,Denver,CO,Healthcare
+99,Yorktown USCG NSC FRC Training Center - Samuel Travis Hall,Yorktown,VA,Government & Military
+100,McKale Center Renovations,Tucson,AZ,Sports & Recreation
+101,University of Washington Tacoma YMCA,Tacoma,WA,Higher Education
+102,Northern Arizona & University Science Health Building,Flagstaff,AZ,Higher Education
+103,Solar Star I & II,Rosamond,CA,Energy & Utilities
+104,Charles Schwab,Lone Tree,CO,Commercial & Office
+105,Oregon Health and Science University,Portland,OR,Healthcare
+106,Nike Lebron James Innovation Center,Beaverton,OR,Industrial & Manufacturing
+107,Riverview Health Expansion & Renovation,Crookston,MN,Healthcare
+108,Adventist West Happy Valley Tenant Improvement,Clackamas,OR,Healthcare
+109,Wheaton College Performing Arts Center,Wheaton,IL,Higher Education
+110,Arlene Schnitzer Acoustical Enhancement,Portland,OR,Civic & Cultural
+111,Garden of the Gods Detention Facility,Colorado Springs,CO,Government & Military
+112,Aurora Medical Center Sheboygan County,Sheboygan,WI,Healthcare
+113,Providence Regional Medical Center Everett,Everett,WA,Healthcare
+114,Four Seasons Resort Vail,Vail,CO,Hospitality & Convention
+115,QTS Chicago Data Center,Chicago,IL,Data Centers
+116,Prairie Gateway Infrastructure,Commerce City,CO,Infrastructure & Transportation
+117,Everett Community College Whitehorse Hall,Everett,WA,Higher Education
+118,Chase Field Suite Renovations & Center Field Display,Phoenix,AZ,Sports & Recreation
+119,Oregon Clinic Gastroenterology South,Newberg,OR,Healthcare
+120,Transamerica,Cedar Rapids,IA,Commercial & Office
+121,Dome Americas at Center,St. Louis,MO,Sports & Recreation
+122,Coors Field,Denver,CO,Sports & Recreation
+123,Denver International Airport Pedestrian Bridge,Denver,CO,Infrastructure & Transportation
+124,Lasalle Plaza,Minneapolis,MN,Commercial & Office
+125,Harold Washington Library Center,Chicago,IL,Civic & Cultural
+126,Minneapolis Convention Center,Minneapolis,MN,Hospitality & Convention
+127,Target Center,Minneapolis,MN,Sports & Recreation
+128,Pepsi Center,Denver,CO,Sports & Recreation
+129,Westminster Presbyterian Church Sanctuary Renovation,Minneapolis,MN,Civic & Cultural
+130,Northwest River Water Treatment Plant,Chesapeake,VA,Infrastructure & Transportation
+131,South Essex Wastewater Treatment Plant,Salem,MA,Infrastructure & Transportation
+132,Mall of America Expansion,Bloomington,MN,Retail
+133,DEN Westin Hotel and Transit Center Addition,Denver,CO,Hospitality & Convention
+134,Sojourner Family Peace Center,Milwaukee,WI,Civic & Cultural
+135,Slat Creek Project,Gueda Springs,KS,Energy & Utilities
+136,University of Washington Benjamin D. Hall Interdisciplinary Research Building,Seattle,WA,Higher Education
+137,University of California San Diego Pharmaceutical Sciences Building,Lajolla,CA,Higher Education
+138,Snohomish County Campus Redevelopment,Everett,WA,Government & Military
+139,Broadmoor Hotel Events Center & Parking Garage,Colorado Springs,CO,Hospitality & Convention
+140,Kilbourn Tower,Milwaukee,WI,Residential
+141,UHS Granite Hills Hospital,Westallis,WI,Healthcare
+142,Wells Fargo Home Mortgage Minneapolis Renovation,Minneapolis,MN,Commercial & Office
+143,Walker Art Center Entry Pavilion & Landscape Project,Minneapolis,MN,Civic & Cultural
+144,USCG Fast Response Cutter Homeport Upgrades Alaska,Ketchikan,AK,Government & Military
+145,Houston Galveston USCG New Sector Headquarters Building,Houston,TX,Government & Military
+146,Amalie Arena Renovations,Tampa Bay,FL,Sports & Recreation
+147,Highland Project,O'Brien County,IA,Energy & Utilities
+148,MCAS New River Maintenance Hangar & Parking Facility Ordnance Loading Area,Jacksonville,NC,Government & Military
+149,Harborcenter,Buffalo,NY,Sports & Recreation
+150,General Mitchell International Airport Inbound Baggage Claim Renovation,Milwaukee,WI,Infrastructure & Transportation
+151,University of South Dakota Sports Performance Enhancement Complex,Vermillion,SD,Higher Education
+152,MNSCU St. Cloud State University Dorm Renovation,St. Cloud,MN,Higher Education
+153,Denver Broncos Scoreboard Team Store,Denver,CO,Sports & Recreation
+154,NREL Research and Innovation Laboratory,Golden,CO,Energy & Utilities
+155,Moraine Sands Wind Project,Mason City,IL,Energy & Utilities
+156,Telecommunications MMR,Seatac,WA,Infrastructure & Transportation
+157,Dekalb Data Center,Dekalb,IL,Data Centers
+158,Semiconductor Manufacturer Campus Renovations,Portland Greater Area,OR,Industrial & Manufacturing
+159,Confidential Energy Storage Project,Confidential Location,TX,Energy & Utilities
+160,Martha Jefferson Hospital,Charlottesville,VA,Healthcare
+161,Fort Lewis Warrior in Transition Barracks and Site,Fort Lewis,WA,Government & Military
+162,W. R. Meadows Innovation Center,Hampshire,IL,Industrial & Manufacturing
+163,citizenM Hotel Pioneer Square,Seattle,WA,Hospitality & Convention
+164,Valley Center Energy Storage,Valley Center,CA,Energy & Utilities
+165,Clark College Advanced Manufacturing Center,Ridgefield,WA,Higher Education
+166,UW Health Eastpark Medical Center,Madison,WI,Healthcare
+167,Johnson Controls Engineering Center,Glendale,WI,Commercial & Office
+168,Beaumont Energy Storage Facility,Beaumont,CA,Energy & Utilities
+169,River Place,Warroad,MN,Residential
+170,Arizona State University Mullett Arena,Tempe,AZ,Sports & Recreation
+171,Milwaukee Tool Downtown Office,Milwaukee,WI,Commercial & Office
+172,HighPoint Logistics Park,Aurora,CO,Industrial & Manufacturing
+173,Cedar Mill Wetlands Restoration,Beaverton,OR,Infrastructure & Transportation
+174,Brookville Bus Depot Microgrid,Brookville,MD,Energy & Utilities
+175,Sanford Health Dickinson Clinic,Dickinson,ND,Healthcare
+176,Sweetwater 4 Substation,Sweetwater,TX,Energy & Utilities
+177,Sweetwater 4 Transmission Line,Sweetwater,TX,Energy & Utilities
+178,Duluth Transit Authority Multimodal Transit Center,Duluth,MN,Infrastructure & Transportation
+179,Cornell College Residence Hall Renovations,Mount Vernon,IA,Higher Education
+180,Post Point Wastewater Treatment Plant Improvements,Bellingham,WA,Infrastructure & Transportation
+181,NS Norfolk Sewells Medical Clinic Point,Norfolk,VA,Government & Military
+182,Eisenhower Public Library,Harwood Heights,IL,Civic & Cultural
+183,Art Denver Museum Cultural Center Parking Garage,Denver,CO,Civic & Cultural
+184,Fort Riley Firing Range,Fort Riley,KS,Government & Military
+185,Start Early Educare Lake County,Zion,IL,K-12 Education
+187,UW Art and Music Renovation,Seattle,WA,null
+188,Nature and Culture Museum of Wisconsin,Milwaukee,WI,Civic & Cultural
+189,Central Arizona Project Water Education Center,Phoenix,AZ,Infrastructure & Transportation
+190,NREL Flatirons Campus Water System,Arvada,CO,null
+191,Broadmoor Main Hotel Renovation,Colorado Springs,CO,Hospitality & Convention
+192,Riverfront Park,Denver,CO,Residential
+193,Metropolitan Tower,Seattle,WA,Commercial & Office
+194,University of Minnesota McNamara Alumni Center,Minneapolis,MN,Higher Education
+195,Town Creek Water Treatment Plant,Macon,GA,Infrastructure & Transportation
+196,JBLM UEPH Whole Barracks Renewal,Joint Base Lewis-Mcchord,WA,Government & Military
+197,North Arizona University - University Services Building,Flagstaff,AZ,Higher Education
+198,Crown College Strohm & Richardson Hall Renovation,St. Bonifacius,MN,Higher Education
+199,Metropolitan State University of Denver Hotel & Hospitality Learning Center,Denver,CO,Higher Education
+200,GSA Multi-Building Renovations I,Chicago,IL,Government & Military
+201,James F. Battin Federal Courthouse,Billings,MT,Government & Military
+202,Kohls Electronic Fulfillment Center,Monroe,OH,Industrial & Manufacturing
+203,School of the Art Institute of Chicago Flaxman Library Renovation,Chicago,IL,Higher Education
+204,University of Illinois Chicago Computer Design Research and Learning Center,Chicago,IL,Higher Education
+205,School Blake Lower Project,Hopkins,MN,K-12 Education
+206,Mulva Cultural Center,De Pere,WI,Civic & Cultural
+207,North Wynkoop Development,Denver,CO,Commercial & Office
+208,Misae Solar I,Childress,TX,Energy & Utilities
+209,Fitzsimons Innovation Community Campus Bioscience 3,Aurora,CO,Commercial & Office
+210,Seattle University Esiminger Fitness Center,Seattle,WA,Higher Education
+211,Denver Health Pavilion M,Denver,CO,Healthcare
+212,Jamestown Regional Medical Center,Jamestown,ND,Healthcare
+213,University of Minnesota Nuclear Magnetic Resonance Renovation Center,Minneapolis,MN,Higher Education
+214,Solar Gestamp Steel Manufacturing Facility,Surprise,AZ,Industrial & Manufacturing
+215,University of Minnesota Akerman Hall Renovation,Minneapolis,MN,Higher Education
+216,Minnesota Zoo Heart of the Zoo Expansion,Apple Valley,MN,Civic & Cultural
+217,Northern Arizona & University Health Learning Center,Flagstaff,AZ,Higher Education
+218,Hill7,Seattle,WA,Commercial & Office
+219,Woodward Office & Production Buildout,Niles,IL,Industrial & Manufacturing
+220,Portland Community College Manufacturing Innovation Center,Scappoose,OR,Higher Education
+221,The Fieldhouse TCO at Sports Garden,Ramsey County,MN,Sports & Recreation
+222,Chicago Transit Authority EV Infrastructure,Chicago,IL,Infrastructure & Transportation
+223,Women's Village at Clara Brown Commons,Denver,CO,Residential
+224,Fitzsimons Innovation Campus Infrastructure,Aurora,CO,Infrastructure & Transportation
+225,TB Flats I & II Wind Project,Medicine Bow,WY,Energy & Utilities
