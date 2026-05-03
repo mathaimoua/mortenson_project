@@ -1,3 +1,32 @@
+CREATE TABLE project_categories (
+    id   INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE projects (
+    id          INT PRIMARY KEY,
+    name        VARCHAR(255) NOT NULL,
+    city        VARCHAR(100),
+    state       CHAR(2),
+    category_id INT REFERENCES project_categories(id)
+);
+
+INSERT INTO project_categories (id, name) VALUES
+(1,  'Healthcare'),
+(2,  'Sports & Recreation'),
+(3,  'Higher Education'),
+(4,  'K-12 Education'),
+(5,  'Government & Military'),
+(6,  'Commercial & Office'),
+(7,  'Hospitality & Convention'),
+(8,  'Civic & Cultural'),
+(9,  'Energy & Utilities'),
+(10, 'Infrastructure & Transportation'),
+(11, 'Industrial & Manufacturing'),
+(12, 'Residential'),
+(13, 'Data Centers'),
+(14, 'Retail');
+
 INSERT INTO projects (id, name, city, state, category_id) VALUES
 (1, 'Crab Island Waterfront Restricted Area', 'Crab Island', 'GA', 10),
 (2, 'Froedtert & The Medical College of Center Wisconsin for Advanced Care', 'Wauwatosa', 'WI', 1),
