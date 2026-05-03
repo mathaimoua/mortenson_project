@@ -1,0 +1,101 @@
+id,first_name,last_name,title,company,email,phone,role_type
+1,Michael,Anderson,Director of Facilities,Allina Health,michael.anderson@allina.com,612-555-1001,Owner
+2,Sarah,Kim,Capital Projects Manager,City of Minneapolis,sarah.kim@minneapolismn.gov,612-555-1002,Owner PM
+3,James,Peterson,Facilities Manager,University of Minnesota,james.peterson@umn.edu,612-555-1003,Owner
+4,Rachel,Nguyen,Project Manager,Hennepin County,rachel.nguyen@hennepin.us,612-555-1004,Owner PM
+5,Daniel,Brooks,Director of Real Estate,Target Corp,daniel.brooks@target.com,612-555-1005,Owner
+6,Ashley,Martinez,Capital Program Manager,State of Minnesota,ashley.martinez@state.mn.us,612-555-1006,Owner PM
+7,Kevin,Lee,Facilities Director,Mayo Clinic,kevin.lee@mayo.edu,612-555-1007,Owner
+8,Nicole,Turner,Project Manager,City of Denver,nicole.turner@denvergov.org,720-555-1008,Owner PM
+9,Brian,Hall,VP Development,Ryan Companies,brian.hall@ryancompanies.com,612-555-1009,Owner
+10,Laura,Scott,Facilities Manager,Children’s Minnesota,laura.scott@childrensmn.org,612-555-1010,Owner
+11,Ethan,Adams,Project Manager,UW Health,ethan.adams@uwhealth.org,608-555-1011,Owner PM
+12,Olivia,Baker,Facilities Director,Kaiser Permanente,olivia.baker@kp.org,206-555-1012,Owner
+13,Noah,Carter,Capital Projects Manager,City of Seattle,noah.carter@seattle.gov,206-555-1013,Owner PM
+14,Emma,Diaz,Facilities Manager,Providence Health,emma.diaz@providence.org,206-555-1014,Owner
+15,Liam,Evans,Director of Facilities,University of Washington,liam.evans@uw.edu,206-555-1015,Owner
+16,Sophia,Flores,Project Manager,City of Chicago,sophia.flores@chicago.gov,312-555-1016,Owner PM
+17,Mason,Green,Facilities Director,Northwestern Mutual,mason.green@nm.com,414-555-1017,Owner
+18,Isabella,Hughes,Capital Projects Manager,City of Phoenix,isabella.hughes@phoenix.gov,602-555-1018,Owner PM
+19,Logan,Ingram,Facilities Manager,Sanford Health,logan.ingram@sanfordhealth.org,701-555-1019,Owner
+20,Ava,Jenkins,Project Manager,City of Portland,ava.jenkins@portlandoregon.gov,503-555-1020,Owner PM
+21,Jake,Thompson,Project Manager,Mortenson,jake.thompson@mortenson.com,612-555-2001,GC PM
+22,Emily,Rodriguez,Senior Project Manager,Turner Construction,emily.rodriguez@turner.com,612-555-2002,GC PM
+23,Chris,Walker,Project Manager,JE Dunn,chris.walker@jedunn.com,612-555-2003,GC PM
+24,Amanda,Young,Project Manager,Skanska,amanda.young@skanska.com,612-555-2004,GC PM
+25,Ryan,Allen,Senior PM,McCarthy Building,ryan.allen@mccarthy.com,612-555-2005,GC PM
+26,Jessica,King,Project Manager,Mortenson,jessica.king@mortenson.com,612-555-2006,GC PM
+27,Tyler,Wright,Project Manager,Turner Construction,tyler.wright@turner.com,612-555-2007,GC PM
+28,Megan,Lopez,Project Manager,JE Dunn,megan.lopez@jedunn.com,612-555-2008,GC PM
+29,Brandon,Hill,Senior PM,Skanska,brandon.hill@skanska.com,612-555-2009,GC PM
+30,Courtney,Scott,Project Manager,Ryan Companies,courtney.scott@ryancompanies.com,612-555-2010,GC PM
+31,Zach,Green,Project Manager,Mortenson,zach.green@mortenson.com,612-555-2011,GC PM
+32,Natalie,Adams,Senior PM,Turner Construction,natalie.adams@turner.com,612-555-2012,GC PM
+33,Aaron,Baker,Project Manager,JE Dunn,aaron.baker@jedunn.com,612-555-2013,GC PM
+34,Samantha,Carter,Project Manager,Skanska,samantha.carter@skanska.com,612-555-2014,GC PM
+35,Kyle,Diaz,Senior PM,Mortenson,kyle.diaz@mortenson.com,612-555-2015,GC PM
+36,Lauren,Evans,Project Manager,Turner Construction,lauren.evans@turner.com,612-555-2016,GC PM
+37,Justin,Flores,Project Manager,JE Dunn,justin.flores@jedunn.com,612-555-2017,GC PM
+38,Brittany,Gomez,Senior PM,Skanska,brittany.gomez@skanska.com,612-555-2018,GC PM
+39,Dylan,Hughes,Project Manager,Ryan Companies,dylan.hughes@ryancompanies.com,612-555-2019,GC PM
+40,Hannah,Iverson,Project Manager,Mortenson,hannah.iverson@mortenson.com,612-555-2020,GC PM
+41,Evan,Johnson,Senior PM,Turner Construction,evan.johnson@turner.com,612-555-2021,GC PM
+42,Grace,Kelly,Project Manager,JE Dunn,grace.kelly@jedunn.com,612-555-2022,GC PM
+43,Nathan,Lewis,Project Manager,Skanska,nathan.lewis@skanska.com,612-555-2023,GC PM
+44,Abigail,Moore,Senior PM,Mortenson,abigail.moore@mortenson.com,612-555-2024,GC PM
+45,Caleb,Nelson,Project Manager,Ryan Companies,caleb.nelson@ryancompanies.com,612-555-2025,GC PM
+46,Madison,Ortiz,Project Manager,Turner Construction,madison.ortiz@turner.com,612-555-2026,GC PM
+47,Isaac,Perez,Senior PM,JE Dunn,isaac.perez@jedunn.com,612-555-2027,GC PM
+48,Chloe,Reed,Project Manager,Skanska,chloe.reed@skanska.com,612-555-2028,GC PM
+49,Luke,Simmons,Project Manager,Mortenson,luke.simmons@mortenson.com,612-555-2029,GC PM
+50,Ella,Turner,Senior PM,Ryan Companies,ella.turner@ryancompanies.com,612-555-2030,GC PM
+51,Brian,Olsen,Superintendent,Mortenson,brian.olsen@mortenson.com,612-555-3001,Superintendent
+52,Kevin,Miller,Lead Superintendent,JE Dunn,kevin.miller@jedunn.com,612-555-3002,Superintendent
+53,Scott,Anderson,Superintendent,Turner Construction,scott.anderson@turner.com,612-555-3003,Superintendent
+54,Mark,Brown,Superintendent,Skanska,mark.brown@skanska.com,612-555-3004,Superintendent
+55,Jason,Clark,Lead Superintendent,Mortenson,jason.clark@mortenson.com,612-555-3005,Superintendent
+56,Eric,Davis,Superintendent,JE Dunn,eric.davis@jedunn.com,612-555-3006,Superintendent
+57,Paul,Edwards,Superintendent,Turner Construction,paul.edwards@turner.com,612-555-3007,Superintendent
+58,Sean,Foster,Superintendent,Skanska,sean.foster@skanska.com,612-555-3008,Superintendent
+59,Gary,Garcia,Lead Superintendent,Mortenson,gary.garcia@mortenson.com,612-555-3009,Superintendent
+60,Adam,Harris,Superintendent,Ryan Companies,adam.harris@ryancompanies.com,612-555-3010,Superintendent
+61,Peter,Iverson,Superintendent,Mortenson,peter.iverson@mortenson.com,612-555-3011,Superintendent
+62,Frank,Jones,Superintendent,Turner Construction,frank.jones@turner.com,612-555-3012,Superintendent
+63,Henry,King,Lead Superintendent,JE Dunn,henry.king@jedunn.com,612-555-3013,Superintendent
+64,Carl,Lopez,Superintendent,Skanska,carl.lopez@skanska.com,612-555-3014,Superintendent
+65,Victor,Martin,Superintendent,Mortenson,victor.martin@mortenson.com,612-555-3015,Superintendent
+66,Oscar,Nelson,Lead Superintendent,Turner Construction,oscar.nelson@turner.com,612-555-3016,Superintendent
+67,Ralph,Ortiz,Superintendent,JE Dunn,ralph.ortiz@jedunn.com,612-555-3017,Superintendent
+68,Tony,Perez,Superintendent,Skanska,tony.perez@skanska.com,612-555-3018,Superintendent
+69,Walter,Quinn,Superintendent,Ryan Companies,walter.quinn@ryancompanies.com,612-555-3019,Superintendent
+70,George,Reed,Lead Superintendent,Mortenson,george.reed@mortenson.com,612-555-3020,Superintendent
+71,Harold,Smith,Superintendent,Turner Construction,harold.smith@turner.com,612-555-3021,Superintendent
+72,Larry,Taylor,Superintendent,JE Dunn,larry.taylor@jedunn.com,612-555-3022,Superintendent
+73,Bruce,Upton,Superintendent,Skanska,bruce.upton@skanska.com,612-555-3023,Superintendent
+74,Dennis,Vargas,Lead Superintendent,Mortenson,dennis.vargas@mortenson.com,612-555-3024,Superintendent
+75,Roger,White,Superintendent,Ryan Companies,roger.white@ryancompanies.com,612-555-3025,Superintendent
+76,Laura,Chen,Lead Architect,HGA,laura.chen@hga.com,612-555-4001,Architect
+77,David,Nguyen,Project Architect,DLR Group,david.nguyen@dlrgroup.com,612-555-4002,Architect
+78,Anna,Kim,Architect,Perkins&Will,anna.kim@perkinswill.com,612-555-4003,Architect
+79,Victor,Lopez,Architect,HDR,victor.lopez@hdrinc.com,612-555-4004,Architect
+80,Rachel,Adams,Architect,HKS,rachel.adams@hksinc.com,612-555-4005,Architect
+81,Chris,Bennett,BD Rep,Mortenson,chris.bennett@mortenson.com,612-555-5001,BD Rep
+82,Amanda,Lopez,Client Relations,Turner Construction,amanda.lopez@turner.com,612-555-5002,BD Rep
+83,Jason,Carter,BD Manager,JE Dunn,jason.carter@jedunn.com,612-555-5003,BD Rep
+84,Megan,Diaz,BD Rep,Skanska,megan.diaz@skanska.com,612-555-5004,BD Rep
+85,Ryan,Evans,BD Manager,Ryan Companies,ryan.evans@ryancompanies.com,612-555-5005,BD Rep
+86,Lily,Flores,Architect,HGA,lily.flores@hga.com,612-555-5006,Architect
+87,Noah,Gomez,Architect,DLR Group,noah.gomez@dlrgroup.com,612-555-5007,Architect
+88,Ethan,Hill,Architect,HDR,ethan.hill@hdrinc.com,612-555-5008,Architect
+89,Sophia,Iverson,Architect,HKS,sophia.iverson@hksinc.com,612-555-5009,Architect
+90,Logan,Jones,Architect,Perkins&Will,logan.jones@perkinswill.com,612-555-5010,Architect
+91,Olivia,King,BD Rep,Mortenson,olivia.king@mortenson.com,612-555-5011,BD Rep
+92,Mason,Lewis,BD Rep,Turner Construction,mason.lewis@turner.com,612-555-5012,BD Rep
+93,Emma,Moore,BD Manager,JE Dunn,emma.moore@jedunn.com,612-555-5013,BD Rep
+94,Liam,Nelson,BD Rep,Skanska,liam.nelson@skanska.com,612-555-5014,BD Rep
+95,Ava,Ortiz,BD Manager,Ryan Companies,ava.ortiz@ryancompanies.com,612-555-5015,BD Rep
+96,Lucas,Perez,Architect,HGA,lucas.perez@hga.com,612-555-5016,Architect
+97,Mia,Quinn,Architect,DLR Group,mia.quinn@dlrgroup.com,612-555-5017,Architect
+98,Elijah,Reed,Architect,HDR,elijah.reed@hdrinc.com,612-555-5018,Architect
+99,Charlotte,Stone,Architect,HKS,charlotte.stone@hksinc.com,612-555-5019,Architect
+100,Benjamin,Taylor,Architect,Perkins&Will,benjamin.taylor@perkinswill.com,612-555-5020,Architect

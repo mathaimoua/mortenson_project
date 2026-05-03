@@ -54,7 +54,7 @@ id,name,city,state,category
 53,Hampton Inn & Suites Phoenix,Phoenix,AZ,Hospitality & Convention
 54,Harborview Medical Facility Center and Infrastructure Improvements,Seattle,WA,Healthcare
 55,Richland Parish Data Center,Holly Ridge,LA,Data Centers
-56,BPA Ross Complex Redevelopment,Vancouver,WA,null
+56,BPA Ross Complex Redevelopment,Vancouver,WA,Other
 57,Continental Coliseum,Oklahoma City,OK,Sports & Recreation
 58,Glen Ellyn Parking Garage,Glen Ellyn,IL,Infrastructure & Transportation
 59,Providence Regional Medical Center Everett Behavioral Health,Everett,WA,Healthcare
@@ -91,8 +91,7 @@ id,name,city,state,category
 90,Buffalo Marriott Harborcenter,Buffalo,NY,Hospitality & Convention
 91,Camp Parks Photovoltaic System,Dublin,CA,Government & Military
 92,Hampton Inn & Suites Minneapolis,Minneapolis,MN,Hospitality & Convention
-186,AMLI Fifth Lenora,Seattle,WA,Residential
-93,Jefferson Lab & Technology Engineering Development Facility,Newport News,VA,null
+93,Jefferson Lab & Technology Engineering Development Facility,Newport News,VA,Other
 94,Alamo 4 Project,Bracketville,TX,Energy & Utilities
 95,Acuity Insurance Flagpole,Sheboygan,WI,Commercial & Office
 96,Big Ten Experience,Rosemont,IL,Civic & Cultural
@@ -185,10 +184,11 @@ id,name,city,state,category
 183,Art Denver Museum Cultural Center Parking Garage,Denver,CO,Civic & Cultural
 184,Fort Riley Firing Range,Fort Riley,KS,Government & Military
 185,Start Early Educare Lake County,Zion,IL,K-12 Education
-187,UW Art and Music Renovation,Seattle,WA,null
+186,AMLI Fifth Lenora,Seattle,WA,Residential
+187,UW Art and Music Renovation,Seattle,WA,Other
 188,Nature and Culture Museum of Wisconsin,Milwaukee,WI,Civic & Cultural
 189,Central Arizona Project Water Education Center,Phoenix,AZ,Infrastructure & Transportation
-190,NREL Flatirons Campus Water System,Arvada,CO,null
+190,NREL Flatirons Campus Water System,Arvada,CO,Other
 191,Broadmoor Main Hotel Renovation,Colorado Springs,CO,Hospitality & Convention
 192,Riverfront Park,Denver,CO,Residential
 193,Metropolitan Tower,Seattle,WA,Commercial & Office
